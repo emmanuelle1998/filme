@@ -1,3 +1,7 @@
 Emmanuelle
 
+<<<<<<< HEAD
 O filme falará... 
+=======
+O filme irá relatar a hstória de...
+>>>>>>> sinopse
